@@ -1,0 +1,2 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: Ara dizin (Debug\) başka bir projeden (BilgisayarGrafikleri.vcxproj) paylaşılan dosyalar içeriyor. Bu, hatalı temizleme ve yeniden oluşturma davranışına neden olabilir.
+  BilgisayarGrafikleri.vcxproj -> C:\Users\sedat_2\source\repos\201613172052\Debug\201613172052.exe
